@@ -42,3 +42,4 @@ Here are some of the features I personally use a lot, in no super particular ord
 * copy/paste/cut
 * Jump to random line
 * Password-protection (symmetric encryption) of files
+* I code in Python in it a lot, so I use F5 to run programs a lot
