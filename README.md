@@ -16,7 +16,7 @@ A few notes:
 
 Here are some of the features I personally use a lot, in no super particular order:
 * Favorites. I start me editor, press Ctrl+Shift+D and type in whatever favorite I'm looking for. This pulls up the files I need at the locations I need them.
-* Compose keys. In Shule, these are four different keys that allow you to enter a code, after which something special happens. It might output text (of any particular length) or execute a function. You can make your own codes and your own schemes. You can save your compose schemes. Compose keys are really nice when you run out of keyboard shortcuts: The Menu compose key is the one used for those by default. The left-windows key is the one that most closely resembles the Linux compose key. Right-win and insert are two more compose keys.
+* Compose keys. In Shule, these are four different keys that allow you to enter a code, after which something special happens. It might output text (of any particular length) or execute a function. You can make your own codes and your own schemes. You can save your compose schemes. Compose keys are really nice when you run out of keyboard shortcuts: The Menu compose key is the one used for those by default. The left-Windows key is the one that most closely resembles the Linux compose key. Right-Windows key and the Insert key (not the ten-key pad one) are two more compose keys.
 * Custom indexes (I'll probably use file indexes and directory indexes more often in time)
 * Timestamps.
 * Search and replace (often with regular expressions), and related features
