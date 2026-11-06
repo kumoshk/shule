@@ -47,7 +47,7 @@ Here are some of the features I personally use a lot, in no super particular ord
 
 Warnings and disclaimers:
 * Shule has a single developer who doesn't get paid for it. (Not zillions of professionals.)
-* The source code does not conform to every industry standard. It has its own standards.
+* The source code does not conform to every industry standard. It has its own standards, and you may or may not like this fact.
 * There is no syntax highlighting, nor is there line numbering (but you can see what line you're on in the statusbar).
 * I imagine at least a large handful of features are probably new to you. Don't forget to use Ctrl+z to undo if you need to.
 * Updates may or may not be compatible with backed-up data, depending on what I update.
