@@ -44,3 +44,12 @@ Here are some of the features I personally use a lot, in no super particular ord
 * Jump to random line
 * Password-protection (symmetric encryption) of files
 * I code in Python in it a lot, so I use F5 to run programs a lot
+
+Warnings and disclaimers:
+* Shule has a single developer who doesn't get paid for it. (Not zillions of professionals.)
+* The source code does not conform to every industry standard. It has its own standards.
+* There is no syntax highlighting, nor is there line numbering (but you can see what line you're on in the statusbar).
+* I imagine at least a large handful of features are probably new to you. Don't forget to use Ctrl+z to undo if you need to.
+* Updates may or may not be compatible with backed-up data, depending on what I update.
+* You are advised to use the latest version. Some of the old versions have some pretty major bugs. You should normally use the latest version, and check for updates (especially soon after a release). The changelog should tell you when I find new bugs, even before a release. If you are using a super old version, you should know that the current one is way better!
+* I've been coding in Kubuntu 26.04.1, lately. It's possible some of the changes I've made since then might not work as favorably on other environments (but as far as I know, it still works fine on others).
