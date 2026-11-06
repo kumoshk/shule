@@ -16,6 +16,7 @@ A few notes:
 
 Here are some of the features I personally use a lot, in no super particular order:
 * Favorites. I start me editor, press Ctrl+Shift+D and type in whatever favorite I'm looking for. This pulls up the files I need at the locations I need them.
+* Compose keys. In Shule, these are four different keys that allow you to enter a code, after which something special happens. It might output text (of any particular length) or execute a function. You can make your own codes and your own schemes. You can save your compose schemes.
 * Custom indexes (I'll probably use file indexes and directory indexes more often in time)
 * Timestamps.
 * Search and replace (often with regular expressions), and related features
