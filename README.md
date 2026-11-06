@@ -51,7 +51,7 @@ Here are some of the features I personally use a lot, in no super particular ord
 * I also use make LilyPond projects in it. So, Shift+F5, F5, and Ctrl+p are important there.
 
 Warnings and disclaimers:
-* Shule has a single developer who doesn't get paid for it. (Not zillions of professionals.)
+* Shule has a single developer. (Not zillions of professionals.)
 * The source code does not conform to every industry standard. It has its own standards, and you may or may not like this fact. The semi-colons at the ends of lines are entirely purposeful, and not ignorant of what everyone else does.
 * There is no syntax highlighting, nor is there line numbering (but you can see what line you're on in the statusbar).
 * I imagine at least a large handful of features are probably new to you. Don't forget to use Ctrl+z to undo if you need to.
