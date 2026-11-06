@@ -13,6 +13,7 @@ A few notes:
 * Shule has a concept that it refers to as indexes. Indexes are simply directory structures with uniquely-named text files within. However, Shule makes it fast and easy to access and create these in a variety of ways. There are custom indexes, directory indexes, and file indexes. Custom indexes have code names and arbitrary directories that you specify. Directory indexes are indexes for a whole directory (the index is an index in that directory). A file index is an index for a specific file. So, if you write a novel or something, you can make a file index for it that serves as a glossary, an encyclopedic dictionary, or some such (in plaintext).
 * Shule has Python-style regular expressions (not Tkinter-style ones, despite using Tkinter). That means you can do groups and functions, too.
 * Password-protection is a thing.
+* To run Shule, you need to install the dependencies first. Then you can either go in the Shule directory and run shule.py with Python (ideally a new version of it). Or, can install Shule and run it from wherever. All Python-library dependencies can be installed with pip, but by default, it uses apt where possible.
 
 Here are some of the features I personally use a lot, in no super particular order:
 * Favorites. I start me editor, press Ctrl+Shift+D and type in whatever favorite I'm looking for. This pulls up the files I need at the locations I need them.
