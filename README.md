@@ -6,7 +6,7 @@ You can download and read about Shule on my website. See <https://vertex.alwaysd
 A few notes:
 * This readme pertains to Shule 0.11.0 on 5 Nov 2026. Changes may or may not have been made since then.
 * Shule is Python source code. It's not compiled executables. It doesn't need to be compiled executables.
-* The interface is fairly minimal. It has a text area, a menu, a statusbar, and a tab bar.
+* The interface is fairly minimal. It has a text area, a menu, a statusbar, and a tab bar. Other widgets have temporary scope.
 * Shule is feature-rich. No minimalism here.
 * Shule is innovative. You will find lots of features here that you probably won't find elsewhere.
 * Shule allows you to be productive.
