@@ -1,7 +1,9 @@
 # shule
 A Linux Python Tkinter text editor, authoring environment, IDE, plaintext e-book reader, and so on.
 
-You can download and read about Shule on my website. See <https://vertex.alwaysdata.net/software.html> and <https://vertex.alwaysdata.net/shule_changelog.html>.
+You can download and read about Shule on my website:
+* <https://vertex.alwaysdata.net/software.html>
+* <https://vertex.alwaysdata.net/shule_changelog.html>
 
 A few notes:
 * This readme pertains to Shule 0.11.0 on 5 Nov 2026. Changes may or may not have been made since then.
