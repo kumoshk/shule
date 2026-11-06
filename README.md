@@ -15,7 +15,7 @@ A few notes:
 * Shule has Python-style regular expressions (not Tkinter-style ones, despite using Tkinter). That means you can do groups and functions, too.
 * Password-protection is a thing.
 * To run Shule, you need to install the dependencies first. Then you can either go in the Shule directory and run shule.py with Python (ideally a new version of it). Or, can install Shule and run it from wherever. All Python-library dependencies can be installed with pip, but by default, it uses apt where possible.
-* Shule is highly configurable, but there isn't a settings menu. Settings are generally with the features themselves.
+* Shule is highly configurable, but there isn't a settings menu. Settings are generally in close proximity to the features themselves.
 
 Here are some of the features I personally use a lot, in no super particular order:
 * Favorites. I start me editor, press Ctrl+Shift+D and type in whatever favorite I'm looking for. This pulls up the files I need at the locations I need them.
